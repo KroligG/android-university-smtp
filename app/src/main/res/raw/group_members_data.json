@@ -1,0 +1,138 @@
+[
+  {
+    "firstname": "Александра",
+    "lastname": "Анохина",
+    "sex": "Female"
+  },
+  {
+    "firstname": "Алексей",
+    "lastname": "Барташевич",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Юрий",
+    "lastname": "Бредихин",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Игорь",
+    "lastname": "Брюков",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Игорь",
+    "lastname": "Буглак",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Егор",
+    "lastname": "Булыгин",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Владислав",
+    "lastname": "Гайшун",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Артем",
+    "lastname": "Гапеев",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Максим",
+    "lastname": "Голунко",
+    "sex": "Male",
+    "photoId": "me"
+  },
+  {
+    "firstname": "Дмитрий",
+    "lastname": "Городецкий",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Андрей",
+    "lastname": "Григорьев",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Илья",
+    "lastname": "Гучок",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Ульяна",
+    "lastname": "Ериксонова",
+    "sex": "Female"
+  },
+  {
+    "firstname": "Татьяна",
+    "lastname": "Жданко",
+    "sex": "Female"
+  },
+  {
+    "firstname": "Сергей",
+    "lastname": "Казаков",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Алексей",
+    "lastname": "Калько",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Сергей",
+    "lastname": "Конаков",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Александр",
+    "lastname": "Кулицкий",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Юрий",
+    "lastname": "Лагодич",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Никита",
+    "lastname": "Ломако",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Анастасия",
+    "lastname": "Новаковская",
+    "sex": "Female"
+  },
+  {
+    "firstname": "Максимилиан",
+    "lastname": "Пекарец",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Игорь",
+    "lastname": "Полещук",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Евгений",
+    "lastname": "Пунтус",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Юрий",
+    "lastname": "Сагалович",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Антон",
+    "lastname": "Сапожников",
+    "sex": "Male"
+  },
+  {
+    "firstname": "Сергей",
+    "lastname": "Свентицкий",
+    "sex": "Male"
+  }
+]

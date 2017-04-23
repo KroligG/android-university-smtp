@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">STMP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="my_name">Maksim Golunko</string>
+    <string name="my_email">maksim.golunko@gmail.com</string>
+    <string name="group_name">6M2311</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lab_1">Lab 1</string>
+    <string name="lab_3">Lab 3</string>
+    <string name="lab_2">Lab 2</string>
+    <string name="nav_kr_group">КР</string>
+    <string name="nav_kr_1">КР1</string>
+    <string name="edit">Edit</string>
+    <string name="lab2_start_text">Text to edit</string>
+    <string name="save">Save</string>
+    <string name="start">Start</string>
+</resources>
